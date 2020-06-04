@@ -1,1 +1,1 @@
-# Test currency converterting application
+# Test currency converting application
